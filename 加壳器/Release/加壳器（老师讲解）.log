@@ -1,0 +1,7 @@
+﻿  加壳器（老师讲解）.cpp
+e:\c源码\15pb正式班第三阶段\15pb正式班第三阶段\加壳器（老师讲解）\加壳器（老师讲解）.cpp(143): error C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(182): note: 参见“strerror”的声明
+e:\c源码\15pb正式班第三阶段\15pb正式班第三阶段\加壳器（老师讲解）\加壳器（老师讲解）.cpp(179): error C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(182): note: 参见“strerror”的声明
+e:\c源码\15pb正式班第三阶段\15pb正式班第三阶段\加壳器（老师讲解）\加壳器（老师讲解）.cpp(272): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+e:\c源码\15pb正式班第三阶段\15pb正式班第三阶段\加壳器（老师讲解）\加壳器（老师讲解）.cpp(274): warning C4018: “<”: 有符号/无符号不匹配

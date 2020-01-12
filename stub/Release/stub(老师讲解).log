@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(Release\)包含从另一个项目(stub(老师讲解).vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  stdafx.cpp
+  dllmain.cpp
+  stub.cpp
+    正在创建库 E:\c源码\15pb正式班第三阶段\15pb正式班第三阶段\Release\stub.lib 和对象 E:\c源码\15pb正式班第三阶段\15pb正式班第三阶段\Release\stub.exp
+  正在生成代码
+  All 9 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+stub.obj : warning LNK4254: 节“.data”(C0000040)合并到具有不同特性的“.text”(60000020)
+  stub(老师讲解).vcxproj -> E:\c源码\15pb正式班第三阶段\15pb正式班第三阶段\Release\stub.dll
